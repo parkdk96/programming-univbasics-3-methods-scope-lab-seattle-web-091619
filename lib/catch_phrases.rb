@@ -9,4 +9,4 @@ def toadstool
 end
 
 def link 
-  
+  phrase = "It's dangerous "
